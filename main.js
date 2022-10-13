@@ -3,4 +3,4 @@ alert(`Connected ${commands}`)
 open(`https://discord.gg/invite/${commands}`)
 
 
-fetch();
+
